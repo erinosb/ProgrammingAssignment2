@@ -1,5 +1,9 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Author: E O N
+## Date: July 21, 2014
+## Name: ProgrammingAssignment2
+## Bugs: 
+## To add:
+####################################################################################
 
 
 #Makes a list containing functions to set and get a matrix, set and get its inverse
